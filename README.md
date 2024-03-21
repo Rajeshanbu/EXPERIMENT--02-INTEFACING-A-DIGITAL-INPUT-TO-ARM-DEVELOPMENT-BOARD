@@ -56,9 +56,9 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## Output  :
- ![Uploading 2.1.jpg…]()
+![WhatsApp Image 2024-03-18 at 14 25 29_8dd0109c](https://github.com/Rajeshanbu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118924713/91a417cb-3d25-4b0e-a610-6b4d40fb8e29)
+![WhatsApp Image 2024-03-18 at 14 25 30_cb51b9fd](https://github.com/Rajeshanbu/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118924713/48e3530f-1994-436b-b15c-ce8b7c56d5f9)
 
-![Uploading 2.2.jpg…]()
 
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
